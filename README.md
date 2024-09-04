@@ -1,2 +1,2 @@
 # LPItabformer
-The codes are coming soon!
+The code is coming soon!
