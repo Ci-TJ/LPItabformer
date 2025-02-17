@@ -1,2 +1,2 @@
 # LPItabformer
-The code is coming soon!
+The code of LPItabformer is in `LPItabformer.zip`, you can download and unzip it and use it according to `README.txt`. `dsuTab_cz.ipynb` is the main example.
