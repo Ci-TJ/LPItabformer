@@ -2,7 +2,10 @@
 
 ## Installation
 ```bash
+conda create -n lpitabformer-env python=3.11
+conda activate lpitabformer-env
 pip install lpitabformer
+pip install -r requirement.txt
 ```
 
 ## Usage
