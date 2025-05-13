@@ -8,7 +8,7 @@
 - LPItabformer requires **three essential input files**:
   1. **LPI pairs with labels**, named `LPI346223_seed1_randp1.txt` and `LPI500684_seed1_randp1.txt`.
   2. **K-mer matrix**, generated using [MathFeature](https://bonidia.github.io/MathFeature/). You can create it with `data_mf.sh` or `mf.sh`.
-  3. **Cluster information for RNAs and proteins**, which you can generate using [MMSeqs2](https://github.com/soedinglab/MMseqs2) with the script `cluster.sh`.
+  3. **Cluster information for RNAs and proteins**, which you can generate using [MMseqs2](https://github.com/soedinglab/MMseqs2) with the script `cluster.sh`.
 
 
 
