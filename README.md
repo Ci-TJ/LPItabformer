@@ -1,4 +1,5 @@
 # LPItabformer
+![LPItabformer](https://github.com/Ci-TJ/LPItabformer/blob/v1.0.2/fig07.svg)
 
 ## Installation
 ```bash
@@ -42,3 +43,14 @@ The saving model weights are in `example/tool_example/data/model/`, `hsa` and `m
 
 ## Input format
 For the input data format, please refer to the instructions in the provided example or case input.
+
+## Citation
+``` bibtex
+@article{lin2025lpitabformer,
+  title={LPItabformer: Enhancing generalization in predicting lncRNA-protein interactions via a tabular Transformer},
+  author={Lin, Qin and Sheng, Jie and Zhou, Chang and Xiao, Tao and Meng, Yilei and Lu, Mingxin and Zhang, Junfang and Yan, Xueyun and Peng, Luying and Cao, Huaming and Li, Li},
+  journal={Computational and Structural Biotechnology Journal},
+  year={2025},
+  publisher={Elsevier}
+}
+```
